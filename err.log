@@ -1,0 +1,286 @@
+js-bson: Failed to load c++ bson extension, using pure JS version
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at Server._listen2 (net.js:1237:14)
+    at listen (net.js:1273:10)
+    at Server.listen (net.js:1369:5)
+    at Function.app.listen (/home/ubuntu/Peanotes/node_modules/express/lib/application.js:536:24)
+    at Object.<anonymous> (/home/ubuntu/Peanotes/server.js:26:5)
+    at Module._compile (module.js:398:26)
+    at Object.Module._extensions..js (module.js:405:10)
+    at Module.load (module.js:344:32)
+    at Function.Module._load (module.js:301:12)
+    at Function.Module.runMain (module.js:430:10)
+    at startup (node.js:141:18)
+    at node.js:980:3
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: failed to connect to [apollo.modulusmongo.net:27017]
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:25)
+    at emitThree (events.js:97:13)
+    at emit (events.js:175:7)
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emitTwo (events.js:87:13)
+    at emit (events.js:172:7)
+    at Socket.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1256:8)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+js-bson: Failed to load c++ bson extension, using pure JS version
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: failed to connect to [apollo.modulusmongo.net:27017]
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:25)
+    at emitThree (events.js:97:13)
+    at emit (events.js:175:7)
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emitTwo (events.js:87:13)
+    at emit (events.js:172:7)
+    at Socket.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1256:8)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at Server._listen2 (net.js:1237:14)
+    at listen (net.js:1273:10)
+    at Server.listen (net.js:1369:5)
+    at Function.app.listen (/home/ubuntu/Peanotes/node_modules/express/lib/application.js:536:24)
+    at Object.<anonymous> (/home/ubuntu/Peanotes/server.js:28:5)
+    at Module._compile (module.js:398:26)
+    at Object.Module._extensions..js (module.js:405:10)
+    at Module.load (module.js:344:32)
+    at Function.Module._load (module.js:301:12)
+    at Function.Module.runMain (module.js:430:10)
+    at startup (node.js:141:18)
+    at node.js:980:3
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at Server._listen2 (net.js:1237:14)
+    at listen (net.js:1273:10)
+    at Server.listen (net.js:1369:5)
+    at Function.app.listen (/home/ubuntu/Peanotes/node_modules/express/lib/application.js:536:24)
+    at Object.<anonymous> (/home/ubuntu/Peanotes/server.js:28:5)
+    at Module._compile (module.js:398:26)
+    at Object.Module._extensions..js (module.js:405:10)
+    at Module.load (module.js:344:32)
+    at Function.Module._load (module.js:301:12)
+    at Function.Module.runMain (module.js:430:10)
+    at startup (node.js:141:18)
+    at node.js:980:3
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: failed to connect to [apollo.modulusmongo.net:27017]
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:25)
+    at emitThree (events.js:97:13)
+    at emit (events.js:175:7)
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emitTwo (events.js:87:13)
+    at emit (events.js:172:7)
+    at Socket.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1256:8)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+js-bson: Failed to load c++ bson extension, using pure JS version
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: failed to connect to [apollo.modulusmongo.net:27017]
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:25)
+    at emitThree (events.js:97:13)
+    at emit (events.js:175:7)
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emitTwo (events.js:87:13)
+    at emit (events.js:172:7)
+    at Socket.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1256:8)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+js-bson: Failed to load c++ bson extension, using pure JS version
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: failed to connect to [apollo.modulusmongo.net:27017]
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:25)
+    at emitThree (events.js:97:13)
+    at emit (events.js:175:7)
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emitTwo (events.js:87:13)
+    at emit (events.js:172:7)
+    at Socket.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1256:8)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+js-bson: Failed to load c++ bson extension, using pure JS version
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: failed to connect to [apollo.modulusmongo.net:27017]
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:25)
+    at emitThree (events.js:97:13)
+    at emit (events.js:175:7)
+    at null.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emitTwo (events.js:87:13)
+    at emit (events.js:172:7)
+    at Socket.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1256:8)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+js-bson: Failed to load c++ bson extension, using pure JS version
+Error: Forbidden
+    at SendStream.error (/home/ubuntu/Peanotes/node_modules/express/node_modules/send/lib/send.js:216:16)
+    at SendStream.pipe (/home/ubuntu/Peanotes/node_modules/express/node_modules/send/lib/send.js:423:52)
+    at staticMiddleware (/home/ubuntu/Peanotes/node_modules/express/node_modules/serve-static/index.js:92:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/Peanotes/node_modules/express/lib/router/layer.js:76:5)
+    at trim_prefix (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:263:13)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:230:9
+    at Function.proto.process_params (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:305:12)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:221:12
+    at Function.match_layer (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:288:3)
+    at next (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:182:10)
+    at expressInit (/home/ubuntu/Peanotes/node_modules/express/lib/middleware/init.js:23:5)
+    at Layer.handle [as handle_request] (/home/ubuntu/Peanotes/node_modules/express/lib/router/layer.js:76:5)
+    at trim_prefix (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:263:13)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:230:9
+    at Function.proto.process_params (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:305:12)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:221:12
+js-bson: Failed to load c++ bson extension, using pure JS version
+Error: Forbidden
+    at SendStream.error (/home/ubuntu/Peanotes/node_modules/express/node_modules/send/lib/send.js:216:16)
+    at SendStream.pipe (/home/ubuntu/Peanotes/node_modules/express/node_modules/send/lib/send.js:423:52)
+    at staticMiddleware (/home/ubuntu/Peanotes/node_modules/express/node_modules/serve-static/index.js:92:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/Peanotes/node_modules/express/lib/router/layer.js:76:5)
+    at trim_prefix (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:263:13)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:230:9
+    at Function.proto.process_params (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:305:12)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:221:12
+    at Function.match_layer (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:288:3)
+    at next (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:182:10)
+    at expressInit (/home/ubuntu/Peanotes/node_modules/express/lib/middleware/init.js:23:5)
+    at Layer.handle [as handle_request] (/home/ubuntu/Peanotes/node_modules/express/lib/router/layer.js:76:5)
+    at trim_prefix (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:263:13)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:230:9
+    at Function.proto.process_params (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:305:12)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:221:12
+/home/ubuntu/Peanotes/app/routes.js:160
+            Note.text = req.body.text["text"];  // update the note info
+                      ^
+
+TypeError: Cannot set property 'text' of null
+    at Promise.<anonymous> (/home/ubuntu/Peanotes/app/routes.js:160:23)
+    at Promise.<anonymous> (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mpromise/lib/promise.js:177:8)
+    at emitOne (events.js:77:13)
+    at Promise.emit (events.js:169:7)
+    at Promise.emit (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mpromise/lib/promise.js:84:38)
+    at Promise.fulfill (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mpromise/lib/promise.js:97:20)
+    at Immediate.cb (/home/ubuntu/Peanotes/node_modules/mongoose/lib/query.js:1153:30)
+    at Immediate._onImmediate (/home/ubuntu/Peanotes/node_modules/mongoose/node_modules/mquery/lib/utils.js:137:16)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+js-bson: Failed to load c++ bson extension, using pure JS version
+Error: Forbidden
+    at SendStream.error (/home/ubuntu/Peanotes/node_modules/express/node_modules/send/lib/send.js:216:16)
+    at SendStream.pipe (/home/ubuntu/Peanotes/node_modules/express/node_modules/send/lib/send.js:423:52)
+    at staticMiddleware (/home/ubuntu/Peanotes/node_modules/express/node_modules/serve-static/index.js:92:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/Peanotes/node_modules/express/lib/router/layer.js:76:5)
+    at trim_prefix (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:263:13)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:230:9
+    at Function.proto.process_params (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:305:12)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:221:12
+    at Function.match_layer (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:288:3)
+    at next (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:182:10)
+    at expressInit (/home/ubuntu/Peanotes/node_modules/express/lib/middleware/init.js:23:5)
+    at Layer.handle [as handle_request] (/home/ubuntu/Peanotes/node_modules/express/lib/router/layer.js:76:5)
+    at trim_prefix (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:263:13)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:230:9
+    at Function.proto.process_params (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:305:12)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:221:12
+Error: Forbidden
+    at SendStream.error (/home/ubuntu/Peanotes/node_modules/express/node_modules/send/lib/send.js:216:16)
+    at SendStream.pipe (/home/ubuntu/Peanotes/node_modules/express/node_modules/send/lib/send.js:423:52)
+    at staticMiddleware (/home/ubuntu/Peanotes/node_modules/express/node_modules/serve-static/index.js:92:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/Peanotes/node_modules/express/lib/router/layer.js:76:5)
+    at trim_prefix (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:263:13)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:230:9
+    at Function.proto.process_params (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:305:12)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:221:12
+    at Function.match_layer (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:288:3)
+    at next (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:182:10)
+    at expressInit (/home/ubuntu/Peanotes/node_modules/express/lib/middleware/init.js:23:5)
+    at Layer.handle [as handle_request] (/home/ubuntu/Peanotes/node_modules/express/lib/router/layer.js:76:5)
+    at trim_prefix (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:263:13)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:230:9
+    at Function.proto.process_params (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:305:12)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:221:12
+Error: Forbidden
+    at SendStream.error (/home/ubuntu/Peanotes/node_modules/express/node_modules/send/lib/send.js:216:16)
+    at SendStream.pipe (/home/ubuntu/Peanotes/node_modules/express/node_modules/send/lib/send.js:423:52)
+    at staticMiddleware (/home/ubuntu/Peanotes/node_modules/express/node_modules/serve-static/index.js:92:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/Peanotes/node_modules/express/lib/router/layer.js:76:5)
+    at trim_prefix (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:263:13)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:230:9
+    at Function.proto.process_params (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:305:12)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:221:12
+    at Function.match_layer (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:288:3)
+    at next (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:182:10)
+    at expressInit (/home/ubuntu/Peanotes/node_modules/express/lib/middleware/init.js:23:5)
+    at Layer.handle [as handle_request] (/home/ubuntu/Peanotes/node_modules/express/lib/router/layer.js:76:5)
+    at trim_prefix (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:263:13)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:230:9
+    at Function.proto.process_params (/home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:305:12)
+    at /home/ubuntu/Peanotes/node_modules/express/lib/router/index.js:221:12
+js-bson: Failed to load c++ bson extension, using pure JS version
